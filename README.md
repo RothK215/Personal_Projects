@@ -1,2 +1,2 @@
 # Personal_Projects
-The csv is provided by Kaggle (https://www.kaggle.com/datasets/nasa/meteorite-landings)https://www.kaggle.com/datasets/nasa/meteorite-landings)
+This folder contains work I have done to share my knowledge of various data analytic methods and work.
